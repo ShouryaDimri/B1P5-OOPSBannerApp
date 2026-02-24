@@ -13,5 +13,19 @@ public class OOPSBannerApp {
         System.out.println("*     * *     * *           *  ");
         System.out.println(" *****   *****   *       ***** ");
 
+// ===========UC-3=============
+
+        System.out.println();
+
+        System.out.println(" *****   *****   *****   ***** ");
+        System.out.println("*     * *     * *     * *     *");
+        System.out.println("*     * *     * *     * *     *");
+        System.out.println("*     * *****  *****   *****  ");
+        System.out.println("*     * *   *  *       *       ");
+        System.out.println("*     * *    * *       *       ");
+        System.out.println(" *****  *****  *****   *****  ");
+
     }
+
+    
 }
